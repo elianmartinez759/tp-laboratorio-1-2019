@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 void Menu(float num1, float num2);
-/** \brief
+/** \brief es el conjunto de funciones que conforman esta calculadora.
  *
- * \param
+ * \param float num1, es el primer numero ingresado en la calculadora.
  * \param float num2, es el segundo numero ingresado en la calculadora.
- * \return
+ * \return o;
  *
  */
 
