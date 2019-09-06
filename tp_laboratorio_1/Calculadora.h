@@ -47,9 +47,9 @@ float Dividir(float num1, float num2);
  */
 
 double Factorial(float num1);
-/** \brief calcula el factorial del primer numero ingresado.
+/** \brief calcula el factorial de un numero ingresado.
  *
- * \param float num1, es el primer numero ingresado en la calculadora.
+ * \param float num1, es numero ingresado para realizar la operacion.
  * \return double, el resultado de la operacion.
  *
  */
@@ -65,7 +65,7 @@ float TomarNumero(float numPedido);
 void Mostrar(float resultado);
 /** \brief muestra un printf con la variable indicada, ademas indica cuantos ceros va a tener el numero despues de la coma.
  *
- * \param la variable que se dispone a mostrar
+ * \param la variable que se dispone a mostrar.
  * \return float.
  *
  */
