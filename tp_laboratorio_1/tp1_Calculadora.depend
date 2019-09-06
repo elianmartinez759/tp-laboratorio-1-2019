@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1567803418 source:c:\c\tp1_calculadora\calculadorafunciones.c
+	"Calculadora.h"
+
+1567802787 source:c:\c\tp1_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
+1567802750 c:\c\tp1_calculadora\calculadora.h
+	<stdlib.h>
+	<stdio.h>
+
+1567629624 source:c:\c\calculadora(con el menu)\calculadoraconmenu.c
+	"CalculadoraConMenu.h"
+
+1567629623 c:\c\calculadora(con el menu)\calculadoraconmenu.h
+	<stdlib.h>
+	<stdio.h>
+
+1567803418 source:c:\c\tp_laboratorio_1\calculadorafunciones.c
+	"Calculadora.h"
+
+1567802750 c:\c\tp_laboratorio_1\calculadora.h
+	<stdlib.h>
+	<stdio.h>
+
+1567802787 source:c:\c\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Calculadora.h"
+
