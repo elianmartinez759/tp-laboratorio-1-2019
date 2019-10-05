@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1570243221 source:c:\users\usuario\desktop\trabajopractico2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"funciones.h"
+
+1570243823 c:\users\usuario\desktop\trabajopractico2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570239357 c:\users\usuario\desktop\trabajopractico2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570243846 source:c:\users\usuario\desktop\trabajopractico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"funciones.h"
+
+1570243823 source:c:\users\usuario\desktop\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"funciones.h"
+
